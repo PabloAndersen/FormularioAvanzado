@@ -1,0 +1,246 @@
+body{
+  background-color: grey;
+}
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.inicioSesion{
+  position: absolute;
+  left: 80%;
+  top: 20%;
+}
+
+.fotoAirsoft{
+  border-radius: 25px;
+  position: absolute;
+  top: 13%;
+  left: 7%;
+    width: 85%;
+    height: auto;
+    border-style: solid;
+}
+
+.fotoPerfil{
+  position: absolute;
+  left: 95%;
+  top: 20%;
+  width: 60px;
+  height: auto;
+}
+
+.tienda{
+  border-radius: 25px;
+  position: absolute;
+  top: 70%;
+  left: 52%;
+  width: 40%;
+  height: 60%;
+  background-color: #666;
+  text-align: center;
+  padding-bottom: 5%;
+  border-style: solid;
+}
+
+.sesiones{
+  border-radius: 25px;
+  position: absolute;
+  top: 70%;
+  left: 7%;
+  width: 40%;
+  height: 60%;
+  background-color: #666;
+  text-align: center;
+  padding-bottom: 5%;
+  border-style: solid;
+}
+
+
+h1{
+  color: white;
+}
+
+.encabezado{
+  text-align: center;
+  border-radius: 25px;
+  position: absolute;
+  top: 1%;
+  left: 7%;
+  width: 85%;
+  height: 0.1%;
+  background-color: #666;
+  padding-bottom: 5%;
+  border-style: solid;
+}
+
+.soldado{
+  position: absolute; 
+}
+
+.formulario{
+  top: 16%;
+  background-color: #999;
+  text-align: center;
+  border-style: solid;
+  color: white;
+  justify-content: center;
+}
+
+.vueltaIndex{
+  position: absolute;
+  left: 38%;
+  top: 62%;
+}
+
+.cerrarSesion{
+  position: absolute;
+  left: 52%;
+  top: 62%;
+}
+
+.sesion1{
+  border-radius: 25px;
+  position: absolute;
+  top: 15%;
+  left: 5%;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  border-style: solid;
+}
+
+.sesion2{
+  border-radius: 25px;
+  position: absolute;
+  top: 15%;
+  left: 55%;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  border-style: solid;
+}
+
+.sesion3{
+  border-radius: 25px;
+  position: absolute;
+  top: 55%;
+  left: 5%;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  border-style: solid;
+}
+
+.sesion4{
+  border-radius: 25px;
+  position: absolute;
+  top: 55%;
+  left: 55%;
+  background-color: #666;
+  color: white;
+  text-align: center;
+  border-style: solid;
+}
+
+.arma1{
+  border-radius: 25px;
+  position: absolute;
+  top: 16%;
+  left: 7%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+}
+
+.arma2{
+  border-radius: 25px;
+  position: absolute;
+  top: 16%;
+  left: 55%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+}
+
+.arma3{
+  border-radius: 25px;
+  position: absolute;
+  top: 63%;
+  left: 7%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+}
+p{
+  color: red;
+}
+.listaDatos{
+  top: 16%;
+  background-color: #999;
+  text-align: center;
+  border-style: solid;
+  color: white;
+  justify-content: center;
+}
+.calle{
+  height: 160px;
+  width: auto;
+}
+.textoArma1{
+  border-radius: 25px;
+  position: absolute;
+  top: 51%;
+  left: 7%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+  background-color: white;
+}
+.textoArma2{
+  border-radius: 25px;
+  position: absolute;
+  top: 60%;
+  left: 55%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+  background-color: white;
+}
+.textoArma3{
+  border-radius: 25px;
+  position: absolute;
+  top: 90%;
+  left: 7%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+  background-color: white;
+}
+.carrito{
+  border-radius: 25px;
+  position: absolute;
+  top: 80%;
+  left: 55%;
+  width: 30%;
+  height: auto;
+  border-style: solid;
+  background-color: white;
+}
